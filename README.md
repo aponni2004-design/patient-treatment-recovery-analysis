@@ -1,4 +1,4 @@
-Patient Treatment & Recovery Analysis Dashboard
+**Patient Treatment & Recovery Analysis Dashboard**
 
 An interactive Excel dashboard developed to analyze patient treatment, recovery, cost, demographic, and departmental data. The project demonstrates practical skills in **Excel-based data analysis, KPI reporting, data visualization, and dashboard development**.
 
